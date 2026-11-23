@@ -1,7 +1,7 @@
 import base64
 
-ADMIN_USER = "goldie"
-ADMIN_PASS = "G04_life"  # capitol G, number 0, number 4, underscore, life.
+ADMIN_USER = "username" # This is a placeholder username.
+ADMIN_PASS = "password" # This is a placeholder password. 
 
 def validate_password(header_value):
     try:
